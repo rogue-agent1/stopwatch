@@ -1,11 +1,3 @@
 # stopwatch
-
-stopwatch - Stopwatch with laps, splits, and statistics.
-
-## Usage
-
-```bash
-python3 stopwatch.py --test
-```
-
-Zero dependencies. Python 3.8+.
+Stopwatch/timer — start, stop, lap, countdown, rate limiter.
+Single-file Python, zero dependencies.
